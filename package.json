@@ -12,16 +12,16 @@
   "dependencies": {
     "firebase": "^11.6.0",
     "i18next": "^24.2.3",
-    "react": "^18.0.0",  // Mise à jour vers la version 18 ou 19
-    "react-dom": "^18.0.0",  // Assure-toi que les deux ont la même version
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
     "react-i18next": "^15.4.1",
     "react-icons": "^5.5.0",
     "react-router-dom": "^7.4.1"
   },
   "devDependencies": {
     "@eslint/js": "^9.22.0",
-    "@types/react": "^18.0.0",   // Met à jour vers la version 18
-    "@types/react-dom": "^18.0.0",   // Met à jour vers la version 18
+    "@types/react": "^19.0.10",
+    "@types/react-dom": "^19.0.4",
     "@vitejs/plugin-react": "^4.3.4",
     "eslint": "^9.22.0",
     "eslint-plugin-react-hooks": "^5.2.0",
